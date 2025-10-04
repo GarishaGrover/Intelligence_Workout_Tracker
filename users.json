@@ -1,0 +1,139 @@
+{
+    "1": {
+        "name": "KJ",
+        "age": "21",
+        "weight": "40",
+        "height": "150",
+        "fitness_level": "beginner",
+        "registration_date": "2025-09-06 22:02:06",
+        "workout_history": [
+            {
+                "date": "2025-09-06 22:03:20",
+                "exercise": "bicep",
+                "reps": 6,
+                "duration": 49.349522829055786,
+                "calories": 1.6449840943018594
+            },
+            {
+                "date": "2025-09-08 14:18:30",
+                "exercise": "bicep",
+                "reps": 19,
+                "duration": 300.0393874645233,
+                "calories": 10.00131291548411
+            }
+        ]
+    },
+    "2": {
+        "name": "GG",
+        "age": "21",
+        "weight": "50",
+        "height": "155",
+        "fitness_level": "beginner",
+        "registration_date": "2025-09-07 16:40:19",
+        "workout_history": [
+            {
+                "date": "2025-09-07 16:51:46",
+                "exercise": "bicep",
+                "reps": 4,
+                "duration": 39.60176491737366,
+                "calories": 1.6500735382239025
+            },
+            {
+                "date": "2025-09-08 12:44:48",
+                "exercise": "bicep",
+                "reps": 1,
+                "duration": 25.32592511177063,
+                "calories": 1.0552468796571097
+            },
+            {
+                "date": "2025-09-08 15:42:01",
+                "exercise": "bicep",
+                "reps": 4,
+                "duration": 18.706783294677734,
+                "calories": 0.7794493039449055
+            },
+            {
+                "date": "2025-09-08 15:42:59",
+                "exercise": "pushup",
+                "reps": 12,
+                "duration": 41.55132341384888,
+                "calories": 4.616813712649876
+            },
+            {
+                "date": "2025-09-08 21:06:05",
+                "exercise": "bicep",
+                "reps": 11,
+                "duration": 57.364787101745605,
+                "calories": 2.390199462572734
+            },
+            {
+                "date": "2025-09-08 23:06:36",
+                "exercise": "bicep",
+                "reps": 9,
+                "duration": 34.26799654960632,
+                "calories": 1.4278331895669303
+            },
+            {
+                "date": "2025-09-11 14:24:11",
+                "exercise": "bicep",
+                "reps": 14,
+                "duration": 64.1351170539856,
+                "calories": 2.6722965439160666
+            },
+            {
+                "date": "2025-09-11 18:36:22",
+                "exercise": "bicep",
+                "reps": 23,
+                "duration": 300.02928042411804,
+                "calories": 12.501220017671585
+            },
+            {
+                "date": "2025-09-11 18:38:49",
+                "exercise": "bicep",
+                "reps": 10,
+                "duration": 96.48331618309021,
+                "calories": 4.020138174295425
+            },
+            {
+                "date": "2025-09-11 18:48:18",
+                "exercise": "bicep",
+                "reps": 21,
+                "duration": 300.01122999191284,
+                "calories": 12.5004679163297
+            },
+            {
+                "date": "2025-09-11 18:50:14",
+                "exercise": "bicep",
+                "reps": 7,
+                "duration": 82.2978081703186,
+                "calories": 3.4290753404299417
+            }
+        ]
+    },
+    "demo_151853": {
+        "name": "Demo User",
+        "age": "25",
+        "weight": "70",
+        "height": "175",
+        "fitness_level": "beginner",
+        "registration_date": "2025-09-08 15:18:53",
+        "workout_history": []
+    },
+    "3": {
+        "name": "KS",
+        "age": "20",
+        "weight": "52",
+        "height": "156",
+        "fitness_level": "beginner",
+        "registration_date": "2025-09-10 11:24:04",
+        "workout_history": [
+            {
+                "date": "2025-09-10 11:24:45",
+                "exercise": "bicep",
+                "reps": 11,
+                "duration": 31.464807271957397,
+                "calories": 1.3634749817848206
+            }
+        ]
+    }
+}
